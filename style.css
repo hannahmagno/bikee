@@ -1,0 +1,19 @@
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+.welcome {
+	margin-top:0px;
+	margin-right:20px;
+	text-align: right;
+}
+
+.nobull {
+    list-style-type: none;
+}
+
+.bottom-brd {
+
+}
